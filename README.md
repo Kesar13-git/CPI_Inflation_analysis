@@ -47,4 +47,12 @@ The project demonstrates an end-to-end data analysis workflow including data cle
 
 ---
 
+## CPI_Inflation_analysis
+│
+├── clean_cpi_data.csv
+├── cpi_data_cleaning_and_analysis.ipynb
+├── cpi_analysis_queries.sql
+├── India_Inflation_Dashboard.pbix
+└── README.md
+
 ## 📂 Repository Structure
